@@ -1,0 +1,5 @@
+-  Hi, I’m @deadly-code or Mohammed Hussen.
+-  I’m interested in web dev.
+-  I’m currently learning front-end dev.
+-  How to reach me => insta: m004.h , Discord: 7medi .
+-  fun fact: I didn’t know they’d be asking me this in the interview! (Just kidding.).
